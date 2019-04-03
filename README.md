@@ -12,7 +12,7 @@
 
 
 2 
-- [ ] dkdjdj
+- [x] dkdjdj
 
 
 
