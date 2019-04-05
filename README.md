@@ -7,7 +7,7 @@
 1 Youtube
 * [現代西班牙](https://www.youtube.com/watch?v=aJubd1okYog&list=PLycXmlzOfI4LfQ4lN0d2WW7WUOla2u474&index=59)
 * [Viajar](https://www.youtube.com/watch?v=IPi7CBr41f4)
-
+* [ChuChuTV Español ](https://www.youtube.com/channel/UCBbsyG0o_cWlyY46ZRSdYJg)
 
 
 
