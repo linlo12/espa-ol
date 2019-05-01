@@ -1,4 +1,4 @@
-# espa-ol
+# español
 
 >This is a Spanish Learning Resourses and Progress
 
